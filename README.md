@@ -8,5 +8,5 @@ The business section gives an insight to my education & experience, and how to c
 
 The code section showcases two of my projects: S.I.G.N.A.L and Keyboard Free Google Dino Tracker and provides the repository links to each. It also showcases my github link.
 
-The off-screen section has 3 subsections: what I'm currently reading, listening and tinkering. Check my website out via this link:
+The off-screen section has 3 subsections: what I'm currently reading, listening and tinkering. Check my website out via this link: https://adabardiz.github.io/personal-website-2/
 
